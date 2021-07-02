@@ -1,6 +1,7 @@
 @echo off
+title 878787
 cd %USERPROFILE%\Desktop
-md %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
+md 9487hahayoufilesocks
 
 :r
 set l=%random%
